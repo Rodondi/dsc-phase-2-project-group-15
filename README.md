@@ -22,9 +22,7 @@ This project endeavors to provide a comprehensive guide to navigating the comple
 
 1. **Seasonal Sales:** When is the optimal time to list your property for sale? We've dissected historical sales data to uncover trends and patterns, helping you pinpoint the best seasons for listing your properties.
 
-2. **Property Features:** What property features, especially those related to property sizes, should you consider when deciding what to put on your listing? Our analysis includes predictive models that take these features into account, assisting you in making more informed pricing decisions.
-
-Whether you're a newcomer seeking to understand the ropes of real estate or a seasoned professional looking for data-backed strategies, this project is designed to equip you with valuable knowledge.
+2. **Property Features:** What property features should you consider when deciding what to put on your listing? Our analysis includes predictive models that take these features into account, assisting you in making more informed pricing decisions.
 
 We believe that the Real Estate Success Blueprint will serve as a valuable resource as you embark on your real estate journey.
 
@@ -48,7 +46,7 @@ Our project meticulously examines historical sales data to uncover seasonal tren
 
 #### Why is this important?
 
-Selecting the right set of property features to highlight in listings can significantly impact not only the speed of a sale but also the final selling price. Property size-related features, such as square footage and the number of bedrooms, are among the most influential factors in a buyer's decision-making process.
+Selecting the right set of property features to highlight in listings can significantly impact not only the speed of a sale but also the final selling price. Property size-related features, such as square footage and the number of bedrooms (update from final features selected), are among the most influential factors in a buyer's decision-making process.
 
 #### What we've done:
 
