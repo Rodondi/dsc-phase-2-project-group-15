@@ -94,7 +94,8 @@ We identified outliers in the `bedrooms` column with entries exceeding 20 bedroo
 
 We introduced a new feature, `season`, to capture the season in which a property was sold. This involved extracting the month from the `date` column and mapping it to the corresponding season (Spring, Summer, Autumn, or Winter). Analyzing sales patterns by season revealed valuable insights.
 
-![Average Selling Price Vs Season](path_to_image)
+![image](https://github.com/Rodondi/dsc-phase-2-project-group-15/assets/133044105/bd905574-e8ad-4ec8-8707-242860ec395c)
+
 *Average Selling Price Vs Season: This plot illustrates the average selling price across different seasons, highlighting seasonal variations in property sales.*
 
 **Business Problem 1 Explanation**: The analysis indicates that Summer has the highest average sales, potentially due to favorable warm weather for property hunting. In contrast, Winter experiences the lowest number of sales. Stakeholders may consider adjusting their marketing and pricing strategies based on these seasonal patterns, focusing marketing efforts during Spring and Summer to maximize high property sales.
@@ -137,7 +138,8 @@ Here are some key findings from the correlation analysis:
 
 A correlation heatmap was created to visually represent the correlations between numerical features. This heatmap provides a clear overview of the relationships between features and can help identify multicollinearity, where two or more features are highly correlated with each other.
 
-![Correlation Heatmap Excluding 'date' and 'id'](path_to_image)
+![image](https://github.com/Rodondi/dsc-phase-2-project-group-15/assets/133044105/0d176c1f-a81e-4e64-85c4-4aba69e1e975)
+
 *Correlation Heatmap Excluding 'date' and 'id': This heatmap visually presents the correlations between numerical features, offering insights into feature relationships and potential multicollinearity.*
 
 ## Modelling
