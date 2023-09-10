@@ -98,7 +98,7 @@ We introduced a new feature, `season`, to capture the season in which a property
 
 *Average Selling Price Vs Season: This plot illustrates the average selling price across different seasons, highlighting seasonal variations in property sales.*
 
-**Business Problem 1 Explanation**: The analysis indicates that Summer has the highest average sales, potentially due to favorable warm weather for property hunting. In contrast, Winter experiences the lowest number of sales. Stakeholders may consider adjusting their marketing and pricing strategies based on these seasonal patterns, focusing marketing efforts during Spring and Summer to maximize high property sales.
+**Business Problem 1 Explanation**: The analysis indicates that Spring has the highest average sales, potentially due to favorable warm weather for property hunting. In contrast, Winter experiences the lowest number of sales. Stakeholders may consider adjusting their marketing and pricing strategies based on these seasonal patterns, focusing marketing efforts during Spring and Summer to maximize high property sales.
 
 #### Feature 2: Age
 
